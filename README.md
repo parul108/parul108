@@ -1,5 +1,4 @@
 ### Hello there, I'm Parul 👋
-#### About me
 <!--
 **parul108/parul108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
