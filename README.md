@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-* 👩‍🎓 **Pursuing B.Tech in Computer Science student @VIT Chennai**
+* 👩‍🎓 **Pursuing B.tech in Computer Science @VIT Chennai**
 * 🌱 **I’m currently learning** Competitve Coding
 * 🌟 **Intersted** in AI,ML,Data Science and Web Development
 * 👯 **I’m looking to collaborate** on various Projects and Research
