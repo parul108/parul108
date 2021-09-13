@@ -1,15 +1,16 @@
-### Hello there, I'm Parul 👋
+![image_processing20191021-21644-hnp6vd](https://user-images.githubusercontent.com/73463780/133124986-1c311136-34ec-4718-b94d-35d2acaa8e1b.gif)
+### Hello there, I'm Parul 😃👋 
+#
 <!--
 **parul108/parul108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+* 👩‍🎓 **Pursuing B.Tech in Computer Science student @VIT Chennai**
+* 🌱 **I’m currently learning** Competitve Coding
+* 🌟 **Intersted** in AI,ML,Data Science and Web Development
+* 👯 **I’m looking to collaborate** on various Projects and Research
+* 🥅 2021 Goals: Contibute to open source projects and explore more into computer scien8ce!
+* 📬 How to reach me: [Let's get in touch!](www.linkedin.com/in/parul-mudaliar)
+* ⚡ Fun fact: I love to explore new things and connecting with people 🌼
+#
