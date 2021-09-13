@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 * 🌟 **Intersted** in AI,ML,Data Science and Web Development
 * 👯 **I’m looking to collaborate** on various Projects and Research
 * 🥅 2021 Goals: Contibute to open source projects and explore more into computer science!
-* 📬 How to reach me: [Let's get in touch!](www.linkedin.com/in/parul-mudaliar)
+* 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/parul-mudaliar-a2b148197/)
 * ⚡ Fun fact: I love to explore new things and connecting with people 🌼
 #
