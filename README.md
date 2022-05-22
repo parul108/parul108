@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 * 👩‍🎓 **Pursuing B.tech in Computer Science @VIT Chennai**
-* 🌱 **I’m currently learning** Data Structures
+* 🌱 **I’m currently learning** Data Structures & Algorithms
 * 🌟 **Intersted** in AI,ML,Data Science and Web Development
 * 👯 **I’m looking to collaborate** on various Projects and Research
 * 🥅 2021 Goals: Contibute to open source projects and explore more into computer science!
